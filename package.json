@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@enviro/metadata": "^1.5.1",
+    "exif-parser": "^0.1.12",
+    "file-metadata": "^3.0.0",
+    "fs-meta": "^0.2.1"
+  }
+}
